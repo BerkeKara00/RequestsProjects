@@ -2,7 +2,7 @@ import requests
 from tkinter import *
 from PIL import ImageTk, Image
 
-API_KEY = 'a95105a9ec9d5cb7a793add0540fca7a'
+API_KEY = 'apiKey'
 
 
 
